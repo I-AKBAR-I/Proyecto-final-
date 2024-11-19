@@ -1,9 +1,0 @@
-# Dockerfile para el servicio web (frontend)
-FROM python:3.10
-
-WORKDIR /app
-COPY . /app
-
-RUN pip install Flask Flask-CORS
-
-CMD ["python", "app.py"]
