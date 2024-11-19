@@ -1,9 +1,0 @@
-# Dockerfile para el servicio API (backend)
-FROM python:3.10
-
-WORKDIR /app
-COPY . /app
-
-RUN pip install Flask SQLAlchemy Flask-CORS
-
-CMD ["python", "app.py"]
