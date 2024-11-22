@@ -1,5 +1,5 @@
 # Proyecto final 
-Realizado Por 
+# Realizado Por :
 Kevin Andres Cubides
 Jose David Velasco
 # Sistema de Cotización de Ventanas
