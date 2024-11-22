@@ -1,4 +1,7 @@
 # Proyecto final 
+Realizado Por 
+Kevin Andres Cubides
+Jose David Velasco
 # Sistema de Cotización de Ventanas
 
 Este proyecto es un sistema de cotización de ventanas desarrollado con **Python** y **Flask**, diseñado para calcular costos basados en dimensiones, materiales y estilos. Además, permite aplicar descuentos y generar resúmenes en formato PDF.
